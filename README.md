@@ -220,7 +220,7 @@ fila = int(input("Ingrese el número de la fila a sumar: "))
 
 resultadoSuma = sumarfila(m1, fila-1)     #parametros bajo los cuales trabaja la funcion
 
-print("La suma de los elementos de la columna " +  str(fila) + " es: " + str(resultadoSuma )) #resultado
+print("La suma de los elementos de la fila " +  str(fila) + " es: " + str(resultadoSuma )) #resultado
 ```
 
 Gracias por leer el repo
